@@ -1,3 +1,3 @@
 ## Team Peryton
 
-Our website, using GitHub Pages and Jekyll.
+Our website, https://team-peryton.github.io, using GitHub Pages and Jekyll.
