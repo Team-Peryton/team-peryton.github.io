@@ -2,39 +2,37 @@
 layout: default
 ---
 
-# About
-
 Based at the Univeristy of Surrey etc
 
 * * *
 
-# Sponsors
+## Sponsors
 
 
 * * *
 
-# Previous entries
+## Previous entries
 
-## Aria, Grand Champion 2021
+### Aria, Grand Champion 2021
 
 - Images
 - articles
 - etc
 
-## 2021 Dragonfly
+### 2021 Dragonfly
 
 
-## 2020 Wally
+### 2020 Wally
 
 
-## 2020 Flying Wing
+### 2020 Flying Wing
 
 
-## 2019 Flop?
+### 2019 Flop?
 
 
-## 2018 Sparky
+### 2018 Sparky
 
 
-## 2017 Hudson
+### 2017 Hudson
 
