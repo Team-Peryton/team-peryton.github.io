@@ -1,3 +1,3 @@
 ## Team Peryton
 
-woo
+Our website, using GitHub Pages and Jekyll.
