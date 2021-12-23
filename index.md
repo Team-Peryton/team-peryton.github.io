@@ -52,5 +52,5 @@ Based at the Univeristy of Surrey etc
 
 ### 2017 Hudson
 
-![Hudson](/assets/Hudson.jpg)
+![Hudson](/assets/hudson.jpg)
 
