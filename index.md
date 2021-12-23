@@ -20,7 +20,7 @@ Based at the Univeristy of Surrey etc
 
 ## Sponsors
 
-We've started contacting supplier! if you're interested in what we do and want to sponsor us for this years competition, please contact teamperyton@surrey.ac.uk
+We've started contacting suppliers! if you're interested in what we do and want to sponsor us for this years competition, please contact teamperyton@surrey.ac.uk
 
 * * *
 
