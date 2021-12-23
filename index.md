@@ -40,12 +40,17 @@ Based at the Univeristy of Surrey etc
 
 ### 2020 Flying Wing
 
+![Flying Wing](/assets/flying_wing.png)
 
-### 2019 Flop?
+### 2019 Flop
 
+![Flop](/assets/flop.png)
 
 ### 2018 Sparky
 
+![Sparky](/assets/sparky.jpg)
 
 ### 2017 Hudson
+
+![Hudson](/assets/Hudson.jpg)
 
