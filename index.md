@@ -5,6 +5,15 @@ layout: default
 Based at the Univeristy of Surrey etc
 
 * * *
+## This years teams
+
+### Team Peryton Atlantis
+
+
+### Team Peryton B
+
+
+* * *
 
 ## Sponsors
 
@@ -14,6 +23,10 @@ Based at the Univeristy of Surrey etc
 ## Previous entries
 
 ### Aria, Grand Champion 2021
+
+![team photo](/assets/aria_team.jpg)
+
+![aria](/assets/aria.jpg)
 
 - Images
 - articles
