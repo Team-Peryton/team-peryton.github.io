@@ -105,6 +105,10 @@ a {
   }
 }
 
+.tagline{
+  text-align: center;
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -114,15 +118,15 @@ a {
   background-position: center center;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 11rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 11rem 4rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 11rem 1rem;
   }
 }
 
