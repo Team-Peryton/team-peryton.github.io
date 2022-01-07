@@ -118,15 +118,17 @@ a {
   background-position: center center;
 
   @include large {
-    padding: 11rem 6rem;
+    max-width: 1200px;
+    padding: 12rem 10rem;
+    align-items: center;
   }
 
   @include medium {
-    padding: 11rem 4rem;
+    padding: 8rem 4rem;
   }
 
   @include small {
-    padding: 11rem 1rem;
+    padding: 5rem 1rem;
   }
 }
 
