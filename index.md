@@ -30,10 +30,6 @@ We've started contacting suppliers! if you're interested in what we do and want 
 
 Aria's idealogy from planning through to testing focused on producing an aircraft capable of winning the competition whilst keeping complexity low. 9 testing days were carried out to ensure the aircraft would perform as expected on the day, going through several design iterations during this process. The team faced many challenges with COVID restrictions but managed to reach their ambitions none the less.
 
-![team photo](/assets/aria_team.jpg)
-
-![aria](/assets/aria.jpg)
-
 Interviews & Press
 
 [IMechE competition interview](https://www.imeche.org/news/news-article/surrey-overcome-dramatic-final-day-crash-to-clinch-top-prize-at-uas-challenge)
@@ -45,6 +41,10 @@ Interviews & Press
 [Surrey Win Post](https://www.surrey.ac.uk/news/surrey-overcomes-dramatic-final-day-crash-secure-top-prize-uas-challenge)
 
 [Surrey pre-competition interview](https://www.surrey.ac.uk/news/surrey-students-aim-high-international-unmanned-aircraft-competition)
+
+![team photo](/assets/aria_team.jpg)
+
+![aria](/assets/aria.jpg)
 
 * * * 
 ### 2021 Dragonfly
