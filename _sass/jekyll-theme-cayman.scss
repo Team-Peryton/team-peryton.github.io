@@ -117,20 +117,20 @@ a {
   background-repeat:   no-repeat;
   background-position: center center;
   margin: auto;
-  
+
   @include large {
     max-width: 1200px;
-    padding: 12rem 10rem;
+    padding: 8rem 10rem;
     align-items: center;
     margin: auto;
   }
 
   @include medium {
-    padding: 8rem 4rem;
+    padding: 5rem 4rem;
   }
 
   @include small {
-    padding: 5rem 1rem;
+    padding: 3rem 1rem;
   }
 }
 
