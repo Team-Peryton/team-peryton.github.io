@@ -108,8 +108,10 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
   background-image: url("/assets/Peryton Logo Banner2.png");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
 
   @include large {
     padding: 5rem 6rem;
@@ -142,7 +144,7 @@ a {
 }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
   font-weight: normal;
   opacity: 0.7;
 
