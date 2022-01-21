@@ -19,7 +19,9 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 * * *
 ## Social Media
 
-| [![desc](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/uav_team_peryton/) | [![desc](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/uav_team_peryton/) |
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+[![desc](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/uav_team_peryton/) | [![desc](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/uav_team_peryton/)
 
 * * *
 
