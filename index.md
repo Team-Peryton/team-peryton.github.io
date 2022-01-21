@@ -29,15 +29,15 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
     </td>
 
     <td>
-      <p align="center" width="25%"> 
-        <a href="https://www.facebook.com/SurreyUAS" rel="some text"><img width="25%" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" /></a> 
-      </p>
+        <p align="center" width="25%"> 
+          <a href="https://www.facebook.com/SurreyUAS" rel="some text"><img width="25%" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="" /></a> 
+        </p>
     </td>
 
     <td>
-      <p align="center" width="25%"> 
-        <a href="https://www.youtube.com/channel/UCl91FqhFOKBE-i3KVa3sPqA" rel="some text"><img width="25%" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="" /></a> 
-      </p>
+        <p align="center" width="25%"> 
+          <a href="https://www.youtube.com/channel/UCl91FqhFOKBE-i3KVa3sPqA" rel="some text"><img width="25%" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="" /></a> 
+        </p>
     </td>
 
     <td>
