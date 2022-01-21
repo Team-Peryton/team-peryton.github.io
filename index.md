@@ -17,6 +17,11 @@ We are a group of students based at the University of Surrey consisting of two t
 We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the univeristy. We're building upon our previous success and learning, pushing boundaries across all sub-systems.
 
 * * *
+## Social Media
+
+[![(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/surrey_team_peryton/)
+
+* * *
 
 ## Sponsors
 
