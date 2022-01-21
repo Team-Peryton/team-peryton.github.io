@@ -20,7 +20,7 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 ## Social Media
 
 | uav_team_peryton             |  SurreyUAS | Surrey Team Peryton | Team Peryton |
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 [![desc](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/uav_team_peryton/) | 
 [![desc](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/SurreyUAS) | 
 [![desc](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://www.youtube.com/channel/UCl91FqhFOKBE-i3KVa3sPqA) | 
