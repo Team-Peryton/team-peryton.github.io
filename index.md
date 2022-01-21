@@ -15,9 +15,9 @@ Team Peryton Atlantis is a team of 3rd year Aerospace Engineering students and o
 
 ### Team Peryton B
 We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the univeristy. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
-- We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system mass and battery mass. 
+- We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass. 
 - We're using custom composite parts to maximise part strength to weight ratio, while using environmentally friendly flax weave to reduce environmental impact. 
-- We've reduced our core avionics costs by over 50% compared to last year, using custom electronics and software and optimising COTS purchases.
+- We've reduced our core avionics costs by over 50% compared to last year, using custom electronics and software as well as optimising COTS purchases.
 - And much more.. We'll reveal our aircraft soon :-)
 
 * * *
