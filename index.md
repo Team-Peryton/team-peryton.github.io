@@ -32,15 +32,15 @@ Aria's idealogy from planning through to testing focused on producing an aircraf
 
 #### Interviews & Press
 
-[IMechE competition interview](https://www.imeche.org/news/news-article/surrey-overcome-dramatic-final-day-crash-to-clinch-top-prize-at-uas-challenge)
+- [IMechE competition interview](https://www.imeche.org/news/news-article/surrey-overcome-dramatic-final-day-crash-to-clinch-top-prize-at-uas-challenge)
 
-[IMechE win announcement](https://www.imeche.org/news/news-article/surrey-loughborough-and-heriot-watt-scoop-awards-at-2021-uas-challenge-flyoff)
+- [IMechE win announcement](https://www.imeche.org/news/news-article/surrey-loughborough-and-heriot-watt-scoop-awards-at-2021-uas-challenge-flyoff)
 
-[IMechE lessons learnt](https://www.imeche.org/news/news-article/feature-lessons-from-imeche's-uas-challenge-set-students-up-for-success)
+- [IMechE lessons learnt](https://www.imeche.org/news/news-article/feature-lessons-from-imeche's-uas-challenge-set-students-up-for-success)
 
-[Surrey Win Post](https://www.surrey.ac.uk/news/surrey-overcomes-dramatic-final-day-crash-secure-top-prize-uas-challenge)
+- [Surrey Win Post](https://www.surrey.ac.uk/news/surrey-overcomes-dramatic-final-day-crash-secure-top-prize-uas-challenge)
 
-[Surrey pre-competition interview](https://www.surrey.ac.uk/news/surrey-students-aim-high-international-unmanned-aircraft-competition)
+- [Surrey pre-competition interview](https://www.surrey.ac.uk/news/surrey-students-aim-high-international-unmanned-aircraft-competition)
 
 ![team photo](/assets/aria_team.jpg)
 
