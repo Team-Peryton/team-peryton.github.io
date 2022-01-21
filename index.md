@@ -19,7 +19,7 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 * * *
 ## Social Media
 
-[![(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/surrey_team_peryton/)
+[![(https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/surrey_team_peryton/)
 
 * * *
 
