@@ -87,6 +87,6 @@ First Peryton entry to go to competition! Sparky used a CNC'd carbon fibre and a
 First team peryton IMechE UAS Challenge entry, designed to use a launcher to save mass on landing gear and propulsion weight. 3 meter high aspect ratio wing ensured high aerodynamic efficiency.  
 
 <p align="center" width="100%">
-  ![Hudson](/assets/hudson.jpg)
+  <img src="/assets/hudson.jpg">
 </p>
 
