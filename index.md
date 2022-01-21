@@ -65,7 +65,9 @@ The 4th year volunteer team aircraft, designed to be very efficient with tapered
 
 3rd year design project not entered into the IMeche UAS challenge. Developed manufacturing jigs to ease assembly and used custom carbon fibre wrapping to provide an efficient carbon frame.
 
-![Flying Wing](/assets/flying_wing.png)
+<p align="center" width="100%">
+  <img width="100%" src="/assets/flying_wing.png">
+</p>
 
 * * * 
 ### 2019 Flop
