@@ -20,7 +20,7 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 
 ## Social Media
 
-{% include socail_media_icons.html %}
+{% include social_media_icons.html %}
 
 * * *
 
