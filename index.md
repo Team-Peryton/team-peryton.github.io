@@ -72,14 +72,18 @@ The 4th year volunteer team aircraft, designed to be very efficient with tapered
 
 I have questions. 
 
-![Flop](/assets/flop.png)
+<p align="center" width="100%">
+  <img width="100%" src="/assets/flop.png">
+</p>
 
 * * * 
 ### 2018 Sparky
 
 First Peryton entry to go to competition! Sparky used a CNC'd carbon fibre and aluminium honeycomb sandwich panel to provide an extreamly light and stiff frame. 
 
-![Sparky](/assets/sparky.jpg)
+<p align="center" width="100%">
+  <img width="100%" src="/assets/sparky.jpg">
+</p>
 
 * * *
 ### 2017 Hudson
@@ -87,6 +91,6 @@ First Peryton entry to go to competition! Sparky used a CNC'd carbon fibre and a
 First team peryton IMechE UAS Challenge entry, designed to use a launcher to save mass on landing gear and propulsion weight. 3 meter high aspect ratio wing ensured high aerodynamic efficiency.  
 
 <p align="center" width="100%">
-  <img src="/assets/hudson.jpg">
+  <img width="100%" src="/assets/hudson.jpg">
 </p>
 
