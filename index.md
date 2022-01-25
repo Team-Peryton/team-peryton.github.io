@@ -11,7 +11,12 @@ We are a group of students based at the University of Surrey consisting of two t
 ## This years teams
 
 ### Team Peryton Atlantis
-Team Peryton Atlantis is a team of 3rd year Aerospace Engineering students and one Mechanical Engineering student. Our team is designing a VTOL aircraft capable of both fixed wing flight and hovering. The team’s aim is to use this design to maximise accuracy and weight of payload delivered to the drop zone, in the competition, and maximise endurance.
+We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team membbers returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
+- Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
+- Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
+- Our aircraft will also have a fixed-wing enabling more power-efficient transit between tasks whilst minimising mission time
+- We have incorporated the payload inside the fuselage of our aircraft to maximise aerodynamic efficiency
+- We will be using carbon fibre composites to construct the weight-efficient skeleton of our aircraft
 
 ### Team Peryton B
 We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the univeristy. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
