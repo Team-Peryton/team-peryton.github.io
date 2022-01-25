@@ -11,7 +11,7 @@ We are a group of students based at the University of Surrey consisting of two t
 ## This years teams
 
 ### Team Peryton Atlantis
-We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team membbers returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
+We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
 - Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
 - Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
 - Our aircraft will also have a fixed-wing enabling more power-efficient transit between tasks whilst minimising mission time
