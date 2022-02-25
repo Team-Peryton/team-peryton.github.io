@@ -54,7 +54,7 @@ if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
 
 ### Aria, Grand Champion 2021
 
-Aria's idealogy from planning through to testing focused on producing an aircraft capable of winning the competition whilst keeping complexity low. 9 testing days were carried out to ensure the aircraft would perform as expected on the day, going through several design iterations during this process. The team faced many challenges with COVID restrictions but managed to reach their ambitions none the less.
+Aria's ideology from planning through to testing focused on producing an aircraft capable of winning the competition whilst keeping complexity low. 9 testing days were carried out to ensure the aircraft would perform as expected on the day, going through several design iterations during this process. The team faced many challenges with COVID restrictions but managed to reach their ambitions none the less.
 
 #### Interviews & Press
 
