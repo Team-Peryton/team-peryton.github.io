@@ -21,7 +21,7 @@ We are the third-year team and this will be our first year participating in the 
 ![Atlantis](/assets/atlantis.jpg)
 
 ### Team Peryton Heron
-We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the univeristy. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
+We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
 - We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass. 
 - We're using custom composite parts to maximise part strength to weight ratio, while using environmentally friendly flax weave to reduce environmental impact. 
 - We've reduced our core avionics costs by over 50% compared to last year, using custom electronics and software as well as optimising COTS purchases.
@@ -82,7 +82,7 @@ The 4th year volunteer team aircraft, designed to be very efficient with tapered
 * * * 
 ### 2020 Wally
 
-4th year volunteer team building on the 2019 3rd year group project learning, focusing on producing an easy to manufacture design. Powered by an internal combustion engine and developing the solarfilm/balsa based wing structure which inspired Arias' wing design. Unfortunatly it was unable to enter competition or flight test due to COVID.
+4th year volunteer team building on the 2019 3rd year group project learning, focusing on producing an easy to manufacture design. Powered by an internal combustion engine and developing the solarfilm/balsa based wing structure which inspired Arias' wing design. Unfortunately it was unable to enter competition or flight test due to COVID.
 
 ![wally](/assets/wally.jpg)
 
@@ -107,7 +107,7 @@ I have questions.
 * * * 
 ### 2018 Sparky
 
-First Peryton entry to go to competition! Sparky used a CNC'd carbon fibre and aluminium honeycomb sandwich panel to provide an extreamly light and stiff frame. 
+First Peryton entry to go to competition! Sparky used a CNC'd carbon fibre and aluminium honeycomb sandwich panel to provide an extremely light and stiff frame. 
 
 <p align="center" width="100%">
   <img width="100%" src="/assets/sparky.jpg">
@@ -116,7 +116,7 @@ First Peryton entry to go to competition! Sparky used a CNC'd carbon fibre and a
 * * *
 ### 2017 Hudson
 
-First team peryton IMechE UAS Challenge entry, designed to use a launcher to save mass on landing gear and propulsion weight. 3 meter high aspect ratio wing ensured high aerodynamic efficiency.  
+First Team Peryton IMechE UAS Challenge entry, designed to use a launcher to save mass on landing gear and propulsion weight. 3 meter high aspect ratio wing ensured high aerodynamic efficiency.  
 
 <p align="center" width="100%">
   <img width="100%" src="/assets/hudson.jpg">
