@@ -30,7 +30,11 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 
 ## Sponsors
 
-We've started contacting suppliers! if you're interested in what we do and want to sponsor us for this years competition, please contact teamperyton@surrey.ac.uk
+![3dxr](/assets/sponsors/3dxr.png)
+
+![easy composites](/assets/sponsors/easy-composites-logo-curves.jpg)
+
+if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
 
 * * *
 
