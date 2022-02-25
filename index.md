@@ -75,7 +75,7 @@ Aria's idealogy from planning through to testing focused on producing an aircraf
 * * * 
 ### 2021 Dragonfly
 
-The 4th year volunteer team aircraft, designed to be very efficient with tapered high aspect ratio wings and T tail. Innovatove use of custom composites to make a structurally light tail boom attachment.
+The 4th year volunteer team aircraft, designed to be very efficient with tapered high aspect ratio wings and T tail. Innovative use of custom composites to make a structurally light tail boom attachment.
 
 ![dragonfly](/assets/dragonfly.jpg)
 
