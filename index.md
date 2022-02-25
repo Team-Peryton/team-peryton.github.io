@@ -18,12 +18,15 @@ We are the third-year team and this will be our first year participating in the 
 - We have incorporated the payload inside the fuselage of our aircraft to maximise aerodynamic efficiency
 - We will be using carbon fibre composites to construct the weight-efficient skeleton of our aircraft
 
-### Team Peryton B
+![Atlantis](/assets/atlantis.jpg)
+
+### Team Peryton Heron
 We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the univeristy. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
 - We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass. 
 - We're using custom composite parts to maximise part strength to weight ratio, while using environmentally friendly flax weave to reduce environmental impact. 
 - We've reduced our core avionics costs by over 50% compared to last year, using custom electronics and software as well as optimising COTS purchases.
-- And much more.. We'll reveal our aircraft soon :-)
+
+![Heron](/assets/heron.jpg)
 
 * * *
 
@@ -35,9 +38,9 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 
 ## Sponsors
 
-![3dxr](/assets/sponsors/3dxr.png)
+[![3dxr](/assets/sponsors/3dxr.png)](https://www.3dxr.co.uk/)
 
-![easy composites](/assets/sponsors/easy-composites-logo-curves.jpg)
+[![easy composites](/assets/sponsors/easy-composites-logo-curves.jpg)](https://www.easycomposites.co.uk/)
 
 if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
 
