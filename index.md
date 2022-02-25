@@ -37,10 +37,13 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 * * *
 
 ## Sponsors
+<p align="center" width="100%">
+    <a href="https://www.3dxr.co.uk/" target="_blank"><img src="/assets/sponsors/3dxr.png" alt="3DXR" "></a>
+</p>
 
-<a href="https://www.3dxr.co.uk/" target="_blank"><img src="/assets/sponsors/3dxr.png" alt="3DXR" "></a>
-
-<a href="https://www.easycomposites.co.uk/" target="_blank"><img src="/assets/sponsors/easy-composites-logo-curves.jpg" alt="3DXR" "></a>
+<p align="center" width="100%">
+    <a href="https://www.easycomposites.co.uk/" target="_blank"><img src="/assets/sponsors/easy-composites-logo-curves.jpg" alt="3DXR" "></a>
+</p>
 
 
 if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
