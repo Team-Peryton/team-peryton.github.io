@@ -5,7 +5,10 @@ layout: default
 * * *
 ## About
 
-We are a group of students based at the University of Surrey consisting of two teams focused on competing in the annual IMechE UAS challenge. 
+We are a group of students based at the University of Surrey consisting of two teams focused on competing in the annual IMechE UAS challenge.
+
+You can contact us at *teamperyton@surrey.ac.uk*
+
 
 * * *
 ## This years teams
@@ -29,8 +32,6 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 ![Heron](/assets/heron.jpg)
 
 * * *
-
-## Social Media
 
 {% include social_media_icons.html %}
 
@@ -122,3 +123,8 @@ First Team Peryton IMechE UAS Challenge entry, designed to use a launcher to sav
   <img width="100%" src="/assets/hudson.jpg">
 </p>
 
+* * *
+
+<p>
+    <a href="#top">Back to top</a>
+</p>
