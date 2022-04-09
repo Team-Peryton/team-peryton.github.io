@@ -1,5 +1,6 @@
 ---
 layout: default
+toc: true
 ---
 
 * * *
@@ -43,12 +44,14 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 
 
 * * *
+## Social Media
 
 {% include social_media_icons.html %}
 
 * * *
 
 ## Sponsors
+
 <p align="center" width="100%">
     <a href="https://www.slecuk.com/" target="_blank"><img src="/assets/sponsors/slec.jpg" width="50%" alt="SLEC"></a>
 </p>

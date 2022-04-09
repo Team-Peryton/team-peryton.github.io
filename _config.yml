@@ -3,3 +3,5 @@ description: IMechE UAS Challenge 2021 Grand Champions, producing insanely good 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-toc
