@@ -23,6 +23,11 @@ We are the third-year team and this will be our first year participating in the 
 
 ![Atlantis](/assets/atlantis.jpg)
 
+#### Interviews & Press
+
+- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
+
+
 ### Team Peryton Heron
 We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
 - We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass. 
@@ -31,6 +36,11 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 
 ![Heron](/assets/heron.jpg)
 
+#### Interviews & Press
+
+- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-the-title-defence-is-on)
+
+
 * * *
 
 {% include social_media_icons.html %}
@@ -38,12 +48,16 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 * * *
 
 ## Sponsors
-<p align="center" width="100%">
+<p align="center" width="50%">
+    <a href="https://www.slecuk.com/" target="_blank"><img src="/assets/sponsors/slec.jpg" width="100%" alt="SLEC"></a>
+</p>
+
+<p align="center" width="50%">
     <a href="https://www.3dxr.co.uk/" target="_blank"><img src="/assets/sponsors/3dxr.png" width="100%" alt="3DXR"></a>
 </p>
 
-<p align="center" width="100%">
-    <a href="https://www.easycomposites.co.uk/" target="_blank"><img src="/assets/sponsors/easy-composites-logo-curves.jpg" width="100%" alt="3DXR"></a>
+<p align="center" width="50%">
+    <a href="https://www.easycomposites.co.uk/" target="_blank"><img src="/assets/sponsors/easy-composites-logo-curves.jpg" width="100%" alt="easycomposites"></a>
 </p>
 
 
