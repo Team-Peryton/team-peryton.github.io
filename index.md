@@ -50,6 +50,16 @@ We are the volunteer team, consisting of the remaining 4th year Aria 2021 team a
 
 * * *
 
+## Working with
+
+<p align="center" width="100%">
+    <a href="https://callenlenz.com/" target="_blank"><img src="/assets/working_with/callen%20lenz%20logo.svg" width="50%" alt="Callen Lenz"></a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://www.qinetiq.com/en/" target="_blank"><img src="/assets/working_with/Qinetiq-Logo.png" width="50%" alt="QinetiQ"></a>
+</p>
+
 ## Sponsors
 
 <p align="center" width="100%">
