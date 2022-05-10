@@ -14,6 +14,23 @@ You can contact us at *teamperyton@surrey.ac.uk*
 * * *
 ## This years teams
 
+### Team Peryton Heron
+Consisting of the remaining 4th year Aria 2021 team as well as students from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
+- We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass;
+- We're using custom composite parts to maximise part strength to weight ratio, while using environmentally friendly flax weave to reduce environmental impact;
+- We've reduced our core avionics costs by over 50% compared to last year, using custom electronics and software as well as optimising COTS purchases;
+- We've flown many flights with our trainer to collect image recognition data and ensure avionics robustness.
+
+![Heron](/assets/heron_group_photo.jpg)
+
+![Heron](/assets/heron.jpg)
+
+#### Interviews & Press
+
+- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-the-title-defence-is-on)
+
+* * *
+
 ### Team Peryton Atlantis
 We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
 - Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
@@ -27,20 +44,6 @@ We are the third-year team and this will be our first year participating in the 
 #### Interviews & Press
 
 - [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
-
-* * *
-
-### Team Peryton Heron
-We are the volunteer team, consisting of the remaining 4th year Aria 2021 team as well as volunteers from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
-- We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass. 
-- We're using custom composite parts to maximise part strength to weight ratio, while using environmentally friendly flax weave to reduce environmental impact. 
-- We've reduced our core avionics costs by over 50% compared to last year, using custom electronics and software as well as optimising COTS purchases.
-
-![Heron](/assets/heron.jpg)
-
-#### Interviews & Press
-
-- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-the-title-defence-is-on)
 
 
 * * *
