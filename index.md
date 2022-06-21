@@ -22,7 +22,7 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 - We've flown many flights with our trainer to collect image recognition data and ensure avionics robustness.
 
 <p>
-<iframe width="100%" src="https://www.youtube.com/embed/M5wu-U3LJwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600px" height="400px" src="https://www.youtube.com/embed/M5wu-U3LJwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ![Heron](/assets/heron_group_photo.jpg)
