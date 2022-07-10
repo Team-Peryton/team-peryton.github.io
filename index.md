@@ -12,9 +12,9 @@ You can contact us at *teamperyton@surrey.ac.uk*
 
 
 * * *
-## This years teams
 
-### Team Peryton Heron
+### Team Peryton Heron, Grand Champions 2022
+
 Consisting of the remaining 4th year Aria 2021 team as well as students from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
 - We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass;
 - We're using custom composite parts to maximise part strength to weight ratio, while using environmentally friendly flax weave to reduce environmental impact;
@@ -32,22 +32,7 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 #### Interviews & Press
 
 - [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-the-title-defence-is-on)
-
-* * *
-
-### Team Peryton Atlantis
-We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
-- Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
-- Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
-- Our aircraft will also have a fixed-wing enabling more power-efficient transit between tasks whilst minimising mission time
-- We have incorporated the payload inside the fuselage of our aircraft to maximise aerodynamic efficiency
-- We will be using carbon fibre composites to construct the weight-efficient skeleton of our aircraft
-
-![Atlantis](/assets/atlantis.jpg)
-
-#### Interviews & Press
-
-- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
+- [IMechE competition results annoucement](https://www.imeche.org/news/news-article/university-of-surrey-crowned-the-winners-of-the-2022-uas-challenge)
 
 
 * * *
@@ -88,7 +73,22 @@ if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
 
 ## Previous entries
 
-### Aria, Grand Champion 2021
+### 2022 Team Peryton Atlantis
+We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
+- Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
+- Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
+- Our aircraft will also have a fixed-wing enabling more power-efficient transit between tasks whilst minimising mission time
+- We have incorporated the payload inside the fuselage of our aircraft to maximise aerodynamic efficiency
+- We will be using carbon fibre composites to construct the weight-efficient skeleton of our aircraft
+
+![Atlantis](/assets/atlantis.jpg)
+
+#### Interviews & Press
+
+- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
+
+* * *
+### 2021 Aria, Grand Champion 2021
 
 Aria's ideology from planning through to testing focused on producing an aircraft capable of winning the competition whilst keeping complexity low. 9 testing days were carried out to ensure the aircraft would perform as expected on the day, going through several design iterations during this process. The team faced many challenges with COVID restrictions but managed to reach their ambitions none the less.
 
