@@ -6,7 +6,7 @@ toc: true
 * * *
 ## About
 
-We are a group of students based at the University of Surrey consisting of two teams focused on competing in the annual IMechE UAS challenge.
+We are a group of students based at the University of Surrey consisting of teams focused on competing in the annual IMechE UAS challenge. Having won the competition in 2022 and 2021 we have strong experiance producing capable autonomous UAV solutions. 
 
 You can contact us at *teamperyton@surrey.ac.uk*
 
