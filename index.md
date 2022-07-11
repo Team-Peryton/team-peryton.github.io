@@ -33,6 +33,8 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 
 ![Heron](/assets/heron_group_photo.jpg)
 
+> from left to right, IMechE President Phil Peel, Oliver Gent, Jonathan Foster, Pierre Semichon, Thanraj Virdee, Owen Wastell.
+
 ![Heron](/assets/heron.jpg)
 
 #### Interviews & Press
@@ -62,23 +64,33 @@ As the aerodynamics and flight mechanics team leader Jonathan helped size the wi
 
 **Saurav Tiwari – Structures leader**
 
+WIP
 
 **Panayiotis Vyronos – Case leader**
+
 The main area of focus for Panos revolved around the payload delivery system. A significant amount of time was also invested in developing and building the UAV case. Being involved in the project has provided him an opportunity to learn about UAV systems and picking up valuable engineering skills and knowledge. Panos is now perusing new career paths in the UAV industry as a result of the experience.
 
+**Pierre Semichon**
+
+WIP
+
 **Owen Wastell**
+
 Owen is a returning member of the 2021 Peryton team. He led the mass tracking within project management. He was also part of the aerodynamics teams for the wing and the structural team for the tail. Team Peryton has been a huge part of his life for the past 2 years. The relationships generated and lessons learnt over that time will be taken with him for the rest of his life.
 
-**Virdee Thanraj**
+**Thanraj Virdee**
+
 Thanraj is a second-year aerospace engineering student, throughout the course of the year he assisted in the design, manufacture, and testing of the aircraft, helping the team wherever necessary. “This has been a truly amazing experience which has made me more passionate than ever about UAS and I am grateful to the team and the IMechE for this opportunity.”
 
 **Schuyler Goodwin-Groen**
+
 Schuyler contributed to the design of the payload bay, fuselage, and wind tunnel testing the propulsion system. He brought expertise in CNC machining, using his custom-built machine, enabling the team to manufacture precise foam fairings. He also assisted in manufacturing the wings, payload bay, nose cone, gaining experience in composite techniques.
 
 **Aiden Wood – Composites**
+
 Aiden served as the composites engineer for the team where he helped manufacture the nose cone mould with 3d printing. He promoted the use of flax composite in the project and helped produce a nosecone through the use of wet layup and vacuum bagging. 
 
-**Luke Bowden, Sam Edmunds, Artie Knijff, Nicholas  Siu,  
+**Luke Bowden, Sam Edmunds, Artie Knijff, Nicholas  Siu**
 
 
 * * *
