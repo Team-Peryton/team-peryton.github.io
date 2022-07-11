@@ -48,15 +48,12 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 
 Oliver led the team throughout the year and pushed development boundaries. He managed objective timelines, motivated the team to progress the project and communicated with stakeholders to report progress and negotiate resources. 
 
-Key achievements involved:
 -	Successful end to end propulsion design using simulation and carrying out wind tunnel testing data to inform efficiency design decisions which was validated with flight testing data. Development of reverse thrust capability to reduce landing distances. 
--	Reduced Avionics costs by half compared to 2021. Image recognition development alongside Pierre, resulting in successful target recognition at competition. Working alongside Jonathan with Ardupilot resulting in a fully autonomous mission at competition. 
+-	Designed avionics architechture. Image recognition development alongside Pierre, resulting in successful target recognition at competition. Working alongside Jonathan with Ardupilot resulting in a fully autonomous mission at competition.
 -	Li-ion batteries were investigated over “traditional” LiPo variants, including significant cell testing to validate performance requirements.
--	Increasing composites expertise within Peryton, including using a vacuum bag process and 3d printed moulds to produce a flax composite nose cone. Used carbon fibre tape wrapping in multiple areas of the aircraft, including novel reinforcement of 3d printed components.
--	Orchestrating flight testing, running 10 testing days total to ensure success at the competition. Including organising a testing day with Callen Lenz, enabling 10kg MTOW testing and in-air payload deployment.
--	Managing Perytons social media presence including producing videos, total Instagram reel views totalled to 17,000. Co-ordinating team peryton overall, managing meetings with Peryton Atlantis including organising sponsorship agreements.
--	Mission analysis
--	More PM stuff?
+-	Increasing composites expertise within Peryton, including using a vacuum bag process and 3d printed moulds to produce a flax composite nose cone.
+-	Orchestrating flight testing, running 10 testing days total to ensure success at the competition.
+-	Managing Perytons social media presence including producing videos, total Instagram reel views totalled to 17,000. Co-ordinating team Peryton overall, managing meetings with Peryton Atlantis including organising sponsorship agreements.
 
 **Jonathan Foster – Aerodynamics leader**
 
@@ -152,6 +149,10 @@ if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
 
 Aria's ideology from planning through to testing focused on producing an aircraft capable of winning the competition whilst keeping complexity low. 9 testing days were carried out to ensure the aircraft would perform as expected on the day, going through several design iterations during this process. The team faced many challenges with COVID restrictions but managed to reach their ambitions none the less.
 
+![team photo](/assets/aria_team.jpg)
+
+![aria](/assets/aria.jpg)
+
 #### Interviews & Press
 
 - [IMechE competition interview](https://www.imeche.org/news/news-article/surrey-overcome-dramatic-final-day-crash-to-clinch-top-prize-at-uas-challenge)
@@ -164,9 +165,22 @@ Aria's ideology from planning through to testing focused on producing an aircraf
 
 - [Surrey pre-competition interview](https://www.surrey.ac.uk/news/surrey-students-aim-high-international-unmanned-aircraft-competition)
 
-![team photo](/assets/aria_team.jpg)
+#### The Team
 
-![aria](/assets/aria.jpg)
+- **Oliver Gent - Team Leader**
+- **Jonathan Foster - Avionics Lead**
+- **Saurav Tiwari - Lift Generation Lead**
+- **William Harper - Manufacturing & Test Lead**
+- **Luke Middlemass - Propulsion Lead**
+- **Owen Wastell**
+- **Jose Arabelo Romero**
+- **Ryan Hewitt**
+- **Artie Knijff**
+- **Wiktor Kawala**
+- **Ferran Prat**
+- **Hasan Sacrine**
+- **Tayyib Islam**
+
 
 * * * 
 ### 2021 Dragonfly
