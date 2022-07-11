@@ -19,6 +19,8 @@ Team Peryton Heron were awarded Grand Champions 2022 at the IMechE UAS challenge
 
 ![Heron](/assets/heron_win.jpg)
 
+> from left to right, IMechE President Phil Peel, Oliver Gent, Jonathan Foster, Pierre Semichon, Thanraj Virdee, Owen Wastell.
+
 ![Heron](/assets/heron_comp.jpg)
 
 Consisting of the remaining 4th year Aria 2021 team as well as students from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
@@ -32,8 +34,6 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 </p>
 
 ![Heron](/assets/heron_group_photo.jpg)
-
-> from left to right, IMechE President Phil Peel, Oliver Gent, Jonathan Foster, Pierre Semichon, Thanraj Virdee, Owen Wastell.
 
 ![Heron](/assets/heron.jpg)
 
