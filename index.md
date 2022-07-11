@@ -6,7 +6,7 @@ toc: true
 * * *
 ## About
 
-We are a group of students based at the University of Surrey consisting of teams focused on competing in the annual IMechE UAS challenge. Having won the competition in 2022 and 2021 we have strong experiance producing capable autonomous UAV solutions. 
+We are a group of students based at the University of Surrey consisting of teams focused on competing in the annual IMechE UAS challenge, which sees university teams enter from all over the world. Having won the competition in 2022 and 2021 we have strong experience producing capable autonomous UAV solutions. 
 
 You can contact us at *teamperyton@surrey.ac.uk*
 
@@ -14,6 +14,12 @@ You can contact us at *teamperyton@surrey.ac.uk*
 * * *
 
 ### Team Peryton Heron, Grand Champions 2022
+
+Team Peryton Heron were awarded Grand Champions 2022 at the IMechE UAS challenge, facing 13 international teams at the live competition, as well as gaining the Safety award. This was as a result of performing 2 99% autonomous missions, including successful payload drops. 
+
+![Heron](/assets/heron_win.jpg)
+
+![Heron](/assets/heron_comp.jpg)
 
 Consisting of the remaining 4th year Aria 2021 team as well as students from all years and degrees across the university. We're building upon our previous success and learning, pushing boundaries across all sub-systems. 
 - We've created a single propeller pusher to increase propulsion efficiency, reducing propulsion system and battery mass;
@@ -34,6 +40,46 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 - [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-the-title-defence-is-on)
 - [IMechE competition results annoucement](https://www.imeche.org/news/news-article/university-of-surrey-crowned-the-winners-of-the-2022-uas-challenge)
 
+#### The Team
+
+**Oliver Gent – Team Leader**
+
+Oliver led the team throughout the year and pushed development boundaries. He managed objective timelines, motivated the team to progress the project and communicated with stakeholders to report progress and negotiate resources. 
+
+Key achievements involved:
+-	Successful end to end propulsion design using simulation and carrying out wind tunnel testing data to inform efficiency design decisions which was validated with flight testing data. Development of reverse thrust capability to reduce landing distances. 
+-	Reduced Avionics costs by half compared to 2021. Image recognition development alongside Pierre, resulting in successful target recognition at competition. Working alongside Jonathan with Ardupilot resulting in a fully autonomous mission at competition. 
+-	Li-ion batteries were investigated over “traditional” LiPo variants, including significant cell testing to validate performance requirements.
+-	Increasing composites expertise within Peryton, including using a vacuum bag process and 3d printed moulds to produce a flax composite nose cone. Used carbon fibre tape wrapping in multiple areas of the aircraft, including novel reinforcement of 3d printed components.
+-	Orchestrating flight testing, running 10 testing days total to ensure success at the competition. Including organising a testing day with Callen Lenz, enabling 10kg MTOW testing and in-air payload deployment.
+-	Managing Perytons social media presence including producing videos, total Instagram reel views totalled to 17,000. Co-ordinating team peryton overall, managing meetings with Peryton Atlantis including organising sponsorship agreements.
+-	Mission analysis
+-	More PM stuff?
+
+**Jonathan Foster – Aerodynamics leader**
+
+As the aerodynamics and flight mechanics team leader Jonathan helped size the wings and tail. He headed up the dihedral conceptual design which improved the stability of the aircraft compared to last year. At the competition he mostly sat behind the laptop where he was responsible for setting up the autopilot, implementing the mission and tuning parameters to ensure maximum autonomous performance from the aircraft. His experience from last year along with technical breakthroughs before the second competition flight led to a well rounded and capable aircraft at competition.
+
+**Saurav Tiwari – Structures leader**
+
+
+**Panayiotis Vyronos – Case leader**
+The main area of focus for Panos revolved around the payload delivery system. A significant amount of time was also invested in developing and building the UAV case. Being involved in the project has provided him an opportunity to learn about UAV systems and picking up valuable engineering skills and knowledge. Panos is now perusing new career paths in the UAV industry as a result of the experience.
+
+**Owen Wastell**
+Owen is a returning member of the 2021 Peryton team. He led the mass tracking within project management. He was also part of the aerodynamics teams for the wing and the structural team for the tail. Team Peryton has been a huge part of his life for the past 2 years. The relationships generated and lessons learnt over that time will be taken with him for the rest of his life.
+
+**Virdee Thanraj**
+Thanraj is a second-year aerospace engineering student, throughout the course of the year he assisted in the design, manufacture, and testing of the aircraft, helping the team wherever necessary. “This has been a truly amazing experience which has made me more passionate than ever about UAS and I am grateful to the team and the IMechE for this opportunity.”
+
+**Schuyler Goodwin-Groen**
+Schuyler contributed to the design of the payload bay, fuselage, and wind tunnel testing the propulsion system. He brought expertise in CNC machining, using his custom-built machine, enabling the team to manufacture precise foam fairings. He also assisted in manufacturing the wings, payload bay, nose cone, gaining experience in composite techniques.
+
+**Aiden Wood – Composites**
+Aiden served as the composites engineer for the team where he helped manufacture the nose cone mould with 3d printing. He promoted the use of flax composite in the project and helped produce a nosecone through the use of wet layup and vacuum bagging. 
+
+**Luke Bowden, Sam Edmunds, Artie Knijff, Nicholas  Siu,  
+
 
 * * *
 ## Social Media
@@ -41,6 +87,21 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 {% include social_media_icons.html %}
 
 * * *
+
+### 2022 Team Peryton Atlantis
+We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
+- Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
+- Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
+- Our aircraft will also have a fixed-wing enabling more power-efficient transit between tasks whilst minimising mission time
+- We have incorporated the payload inside the fuselage of our aircraft to maximise aerodynamic efficiency
+- We will be using carbon fibre composites to construct the weight-efficient skeleton of our aircraft
+
+![Atlantis](/assets/atlantis.jpg)
+
+#### Interviews & Press
+
+- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
+
 
 ## Working with
 
@@ -73,19 +134,6 @@ if you're interested in what we do, please contact teamperyton@surrey.ac.uk!
 
 ## Previous entries
 
-### 2022 Team Peryton Atlantis
-We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
-- Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
-- Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
-- Our aircraft will also have a fixed-wing enabling more power-efficient transit between tasks whilst minimising mission time
-- We have incorporated the payload inside the fuselage of our aircraft to maximise aerodynamic efficiency
-- We will be using carbon fibre composites to construct the weight-efficient skeleton of our aircraft
-
-![Atlantis](/assets/atlantis.jpg)
-
-#### Interviews & Press
-
-- [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
 
 * * *
 ### 2021 Aria, Grand Champion 2021
