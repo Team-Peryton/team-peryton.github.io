@@ -54,6 +54,7 @@ Oliver led the team throughout the year and pushed development boundaries. He ma
 -	Increasing composites expertise within Peryton, including using a vacuum bag process and 3d printed moulds to produce a flax composite nose cone.
 -	Orchestrating flight testing, running 10 testing days total to ensure success at the competition.
 -	Managing Perytons social media presence including producing videos, total Instagram reel views totalled to 17,000. Co-ordinating team Peryton overall, managing meetings with Peryton Atlantis including organising sponsorship agreements.
+- Structural design of the wing/tail connection and the dihedral step joiner.
 
 **Jonathan Foster – Aerodynamics leader**
 
@@ -67,7 +68,7 @@ Jonathan led the aerodynamics team with a focus on designing for autonomous flig
 
 **Saurav Tiwari – Structures leader**
 
-WIP
+Saurav sized the wing spars and performed FEA on the tail/wing connection. He also did significant wing CAD work.
 
 **Panayiotis Vyronos – Case leader**
 
@@ -75,7 +76,7 @@ The main area of focus for Panos revolved around the payload delivery system. A 
 
 **Pierre Semichon**
 
-WIP
+Pierre developed the image recognition software, in particular the clustering functionality to remove false positives and increase final position estimation. 
 
 **Owen Wastell**
 
