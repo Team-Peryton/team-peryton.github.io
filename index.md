@@ -57,7 +57,13 @@ Oliver led the team throughout the year and pushed development boundaries. He ma
 
 **Jonathan Foster – Aerodynamics leader**
 
-As the aerodynamics and flight mechanics team leader Jonathan helped size the wings and tail. He headed up the dihedral conceptual design which improved the stability of the aircraft compared to last year. At the competition he mostly sat behind the laptop where he was responsible for setting up the autopilot, implementing the mission and tuning parameters to ensure maximum autonomous performance from the aircraft. His experience from last year along with technical breakthroughs before the second competition flight led to a well rounded and capable aircraft at competition.
+Jonathan led the aerodynamics team with a focus on designing for autonomous flight by building on the flight characteristics and handling of Aria 3, the previous year's aircraft, which was a key area of improvement. Following from conceptual design of the aircraft, he headed up work on the autopulot, incorperating design features with the autopilot system resulting in a robust, capable and smooth autonomous aircraft.
+
+-   Spearheaded stability improvement through incorperating wing and tail dihedral, resulting in a significant improvement in static spiral stability and dynamic modes.
+-   Developed an innovative design tool in Python to automatically size the tail using a vortex lattice method for aerodynamic stability analysis, which saved significant time and team resource in the conceptual design phase.
+-   Conducted structural FEA on tail-wing connection and calibrated using real world testing to solve the unique problem of the split V tail configuration. Resulted in a lightweight but stiff connection utilising unidirectional carbon-fibre weave.
+-   At competition he was responsible for implementing the mission and tuning autopilot parameters, which ensured maximum autonomous performance of the aircraft.
+-   Experience in Ardupilot carried over from the previous year along with technical breakthroughs before the second competition flight resulted in the only fully autonomous aircraft in the 2022 competition.
 
 **Saurav Tiwari – Structures leader**
 
