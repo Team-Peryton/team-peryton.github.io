@@ -68,7 +68,13 @@ Jonathan led the aerodynamics team with a focus on designing for autonomous flig
 
 **Saurav Tiwari – Structures leader**
 
-Saurav sized the wing spars and performed FEA on the tail/wing connection. He also did significant wing CAD work.
+Working within Team Peryton for the last two years, Saurav has offered his expertise in various fields of UAV design.
+
+- Development of UAV initial sizing strategies. The conceptual sizing of lifting surfaces using constraints and requirements analysis.
+- Development of flight envelop of the UAV. Identification and Evaluation of critical worst-case loadings of the UAV.
+- Worked on the development of a code for calculating the drag.
+- Conducted structural design of the wing including CAD and FEA.  Significant effort on the wing/tail connection FEA analysis.
+- Worked on the development of sub-teams interface identification and management.
 
 **Panayiotis Vyronos – Case leader**
 
