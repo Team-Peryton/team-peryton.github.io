@@ -10,6 +10,9 @@ We are a group of students based at the University of Surrey consisting of teams
 
 You can contact us at *teamperyton@surrey.ac.uk*
 
+* * *
+
+{% include toc.html html=content %}
 
 * * *
 
