@@ -11,10 +11,16 @@ We are a group of students based at the University of Surrey consisting of teams
 You can contact us at *teamperyton@surrey.ac.uk*
 
 
+* * *
+## Social Media
+
+{% include social_media_icons.html %}
+
+
 
 * * *
 
-### Team Peryton Heron, Grand Champions 2022
+## Team Peryton Heron, Grand Champions 2022
 
 Team Peryton Heron were awarded Grand Champions 2022 at the IMechE UAS challenge, facing 13 international teams at the live competition, as well as gaining the Safety award. This was as a result of performing 2 99% autonomous missions, including successful payload drops. 
 
@@ -38,12 +44,12 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 
 ![Heron](/assets/heron.jpg)
 
-#### Interviews & Press
+### Interviews & Press
 
 - [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-the-title-defence-is-on)
 - [IMechE competition results annoucement](https://www.imeche.org/news/news-article/university-of-surrey-crowned-the-winners-of-the-2022-uas-challenge)
 
-#### The Team
+### The Team
 
 (click on names for summary)
 
@@ -134,14 +140,11 @@ Aiden served as the composites engineer for the team where he helped manufacture
 **Luke Bowden, Sam Edmunds, Artie Knijff, Nicholas  Siu**
 
 
-* * *
-## Social Media
 
-{% include social_media_icons.html %}
 
 * * *
 
-### 2022 Team Peryton Atlantis
+## 2022 Team Peryton Atlantis
 We are the third-year team and this will be our first year participating in the UAS Challenge. Our team consists of Aerospace Engineering students and one Mechanical Engineering student. We also have team members returning from industrial placements, bringing with them a plethora of knowledge to apply to this competition. We are keen to demonstrate our engineering abilities and creative thinking which is why we are developing a VTOL aircraft for this year's competition. 
 - Our aircraft is equipped with 5 motors: 4 dedicated lift motors and 1 tractor motor
 - Our design is capable of vertical flight and hovering with the aim of maximising payload drop accuracy
@@ -151,12 +154,12 @@ We are the third-year team and this will be our first year participating in the 
 
 ![Atlantis](/assets/atlantis.jpg)
 
-#### Interviews & Press
+### Interviews & Press
 
 - [IMechE pre-competition interview](https://www.imeche.org/news/news-article/team-peryton-atlantis-prepare-to-win)
 
 
-## Working with
+## We're Working With
 
 <p align="center" width="100%">
     <a href="https://callenlenz.com/" target="_blank"><img src="/assets/working_with/callen%20lenz%20logo.svg" width="50%" alt="Callen Lenz"></a>
