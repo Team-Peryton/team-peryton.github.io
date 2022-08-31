@@ -60,7 +60,7 @@ Oliver led the team throughout the year and pushed development boundaries. He ma
 -	Managing Perytons social media presence including producing videos, total Instagram reel views totalled to 17,000. Co-ordinating team Peryton overall, managing meetings with Peryton Atlantis including organising sponsorship agreements.
 - Structural design of the wing/tail connection and the dihedral step joiner.
 -   
-{% endcapture %}{% include details.html %} 
+{% endcapture %}
 
 
 **Jonathan Foster – Aerodynamics leader**
