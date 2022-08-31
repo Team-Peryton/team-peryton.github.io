@@ -12,7 +12,7 @@ You can contact us at *teamperyton@surrey.ac.uk*
 
 * * *
 
-{% include toc.html html=content h_min=2 h_max=3%}
+{% include toc.html html=content h_min=2 h_max=6%}
 
 * * *
 
@@ -47,9 +47,10 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 
 #### The Team
 
+(click on names for summary)
 
 <details markdown=block>
-<summary markdown=span>**Oliver Gent – Team Leader**</summary>
+<summary markdown=span> > **Oliver Gent – Team Leader**</summary>
 
 Oliver led the team throughout the year and pushed development boundaries. He managed objective timelines, motivated the team to progress the project and communicated with stakeholders to report progress and negotiate resources. 
 
@@ -64,7 +65,8 @@ Oliver led the team throughout the year and pushed development boundaries. He ma
 </details>
 
 
-**Jonathan Foster – Aerodynamics leader**
+<details markdown=block>
+<summary markdown=span> > **Jonathan Foster – Aerodynamics leader**</summary>
 
 Jonathan led the aerodynamics team with a focus on designing for autonomous flight by building on the flight characteristics and handling of Aria 3, the previous year's aircraft, which was a key area of improvement. Following from conceptual design of the aircraft, he headed up work on the autopulot, incorporating design features with the autopilot system resulting in a robust, capable and smooth autonomous aircraft.
 
@@ -74,7 +76,10 @@ Jonathan led the aerodynamics team with a focus on designing for autonomous flig
 -   At competition he was responsible for implementing the mission and tuning autopilot parameters, which ensured maximum autonomous performance of the aircraft.
 -   Experience in Ardupilot carried over from the previous year along with technical breakthroughs before the second competition flight resulted in the only fully autonomous aircraft in the 2022 competition.
 
-**Saurav Tiwari – Structures leader**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Saurav Tiwari – Structures leader**</summary>
 
 Working within Team Peryton for the last two years, Saurav has offered his expertise in various fields of UAV design.
 
@@ -84,29 +89,49 @@ Working within Team Peryton for the last two years, Saurav has offered his exper
 - Conducted structural design of the wing including CAD and FEA.  Significant effort on the wing/tail connection FEA analysis.
 - Worked on the development of sub-teams interface identification and management.
 
-**Panayiotis Vyronos – Case leader**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Panayiotis Vyronos – Case leader**</summary>
 
 The main area of focus for Panos revolved around the payload delivery system. A significant amount of time was also invested in developing and building the UAV case. Being involved in the project has provided him an opportunity to learn about UAV systems and picking up valuable engineering skills and knowledge. Panos is now perusing new career paths in the UAV industry as a result of the experience.
 
-**Pierre Semichon**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Pierre Semichon**</summary>
 
 Pierre developed the image recognition software, in particular the clustering functionality to remove false positives and increase final position estimation. 
 
-**Owen Wastell**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Owen Wastell**</summary>
 
 Owen is a returning member of the 2021 Peryton team. He led the mass tracking within project management. He was also part of the aerodynamics teams for the wing and the structural team for the tail. Team Peryton has been a huge part of his life for the past 2 years. The relationships generated and lessons learnt over that time will be taken with him for the rest of his life.
 
-**Thanraj Virdee**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Thanraj Virdee**</summary>
 
 Thanraj is a second-year aerospace engineering student, throughout the course of the year he assisted in the design, manufacture, and testing of the aircraft, helping the team wherever necessary. “This has been a truly amazing experience which has made me more passionate than ever about UAS and I am grateful to the team and the IMechE for this opportunity.”
 
-**Schuyler Goodwin-Groen**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Schuyler Goodwin-Groen**</summary>
 
 Schuyler contributed to the design of the payload bay, fuselage, and wind tunnel testing the propulsion system. He brought expertise in CNC machining, using his custom-built machine, enabling the team to manufacture precise foam fairings. He also assisted in manufacturing the wings, payload bay, nose cone, gaining experience in composite techniques.
 
-**Aiden Wood – Composites**
+</details>
+
+<details markdown=block>
+<summary markdown=span> > **Aiden Wood – Composites**</summary>
 
 Aiden served as the composites engineer for the team where he helped manufacture the nose cone mould with 3d printing. He promoted the use of flax composite in the project and helped produce a nosecone through the use of wet layup and vacuum bagging. 
+
+</details>
 
 **Luke Bowden, Sam Edmunds, Artie Knijff, Nicholas  Siu**
 
