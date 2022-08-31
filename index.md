@@ -66,9 +66,9 @@ Oliver led the team throughout the year and pushed development boundaries. He ma
 
 **Jonathan Foster – Aerodynamics leader**
 
-Jonathan led the aerodynamics team with a focus on designing for autonomous flight by building on the flight characteristics and handling of Aria 3, the previous year's aircraft, which was a key area of improvement. Following from conceptual design of the aircraft, he headed up work on the autopulot, incorperating design features with the autopilot system resulting in a robust, capable and smooth autonomous aircraft.
+Jonathan led the aerodynamics team with a focus on designing for autonomous flight by building on the flight characteristics and handling of Aria 3, the previous year's aircraft, which was a key area of improvement. Following from conceptual design of the aircraft, he headed up work on the autopulot, incorporating design features with the autopilot system resulting in a robust, capable and smooth autonomous aircraft.
 
--   Spearheaded stability improvement through incorperating wing and tail dihedral, resulting in a significant improvement in static spiral stability and dynamic modes.
+-   Spearheaded stability improvement through incorporating wing and tail dihedral, resulting in a significant improvement in static spiral stability and dynamic modes.
 -   Developed an innovative design tool in Python to automatically size the tail using a vortex lattice method for aerodynamic stability analysis, which saved significant time and team resource in the conceptual design phase.
 -   Conducted structural FEA on tail-wing connection and calibrated using real world testing to solve the unique problem of the split V tail configuration. Resulted in a lightweight but stiff connection utilising unidirectional carbon-fibre weave.
 -   At competition he was responsible for implementing the mission and tuning autopilot parameters, which ensured maximum autonomous performance of the aircraft.
