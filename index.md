@@ -44,7 +44,8 @@ Consisting of the remaining 4th year Aria 2021 team as well as students from all
 
 #### The Team
 
-**Oliver Gent – Team Leader**
+{% capture summary %}**Oliver Gent – Team Leader**{% endcapture %}  
+{% capture details %}  
 
 Oliver led the team throughout the year and pushed development boundaries. He managed objective timelines, motivated the team to progress the project and communicated with stakeholders to report progress and negotiate resources. 
 
@@ -55,6 +56,9 @@ Oliver led the team throughout the year and pushed development boundaries. He ma
 -	Orchestrating flight testing, running 10 testing days total to ensure success at the competition.
 -	Managing Perytons social media presence including producing videos, total Instagram reel views totalled to 17,000. Co-ordinating team Peryton overall, managing meetings with Peryton Atlantis including organising sponsorship agreements.
 - Structural design of the wing/tail connection and the dihedral step joiner.
+-   
+{% endcapture %}{% include details.html %} 
+
 
 **Jonathan Foster – Aerodynamics leader**
 
